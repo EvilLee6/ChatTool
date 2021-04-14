@@ -1,0 +1,9 @@
+QWidget#widgetLeft
+{
+    background-color:black;
+}
+
+QListWidget#chatObject
+{
+    background-color:transparent;
+}
